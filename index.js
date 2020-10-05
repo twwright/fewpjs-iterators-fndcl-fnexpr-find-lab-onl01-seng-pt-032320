@@ -3,3 +3,5 @@ function superbowlWin(array) {
   if (!!result) return result.year
   return undefined
 }
+
+// vim!
